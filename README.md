@@ -6,6 +6,8 @@ This implementation is based on and uses code from the BPjs implementation of a 
 
 This project uses [COBPjs](https://github.com/bThink-BGU/BPjs-Context) which is based on [BPjs](https://github.com/bThink-BGU/BPjs). A BPjs tutorial can be found [here](https://bpjs.readthedocs.io/en/latest/) and an explanation of COBP is provided by this [paper](https://www.sciencedirect.com/science/article/pii/S095058492030094X). To execute JavaScript code in Java, [Mozilla Rhino](https://github.com/mozilla/rhino) is used.
 
+_See branch “testing” for possible ways to test COBPjs applications._ 
+
 ## Requirements
 This project requires:
 * [ROS with gazebo (tested with melodic)](http://wiki.ros.org/melodic/Installation)
